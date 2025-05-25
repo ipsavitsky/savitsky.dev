@@ -1,8 +1,8 @@
 generate_resume_pdf:
-    mkdir -p out
     typst compile resume/resume.typ static/resume.pdf
 
 generate_resume_html:
-    mkdir -p out
     pandoc resume/resume.typ -o static/resume.html
 
+transfer_svg_to_static:
+	cp resume/*.svg static/

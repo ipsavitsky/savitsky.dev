@@ -1,6 +1,4 @@
 {
-  description = "A very basic flake";
-
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
@@ -30,9 +28,15 @@
           savitsky-dev = pkgs.stdenv.mkDerivation {
             name = "savitsky.dev";
             src = ./.;
+            nativeBuildInputs = with pkgs; [
+              pandoc
+              typst
+            ];
             installPhase = ''
               mkdir -p $out/static
-              cp index.html $out/static
+              pandoc resume/resume.typ -o static/resume.html
+              typst compile resume/resume.typ static/resume.pdf
+              cp -r static $out/
             '';
           };
         };
