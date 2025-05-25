@@ -18,6 +18,13 @@
         pkgs = import nixpkgs { inherit system; };
       in
       {
+        devShells.default = pkgs.mkShell {
+          packages = with pkgs; [
+            typst
+            pandoc
+            just
+          ];
+        };
         packages = rec {
           default = savitsky-dev;
           savitsky-dev = pkgs.stdenv.mkDerivation {
