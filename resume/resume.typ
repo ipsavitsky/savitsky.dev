@@ -65,12 +65,14 @@ Summer internship, Software Development #h(1fr) Java, Spring, k8s
 
 == Hackathons
 
+#hline
+
 - ETHGlobal Brussels. Hyperlane "Best Infrastructure" bounty #pict_link("https://github.com/ipsavitsky/DeployAlchemist")[Repo] #pict_link("https://ethglobal.com/showcase/deployalchemist-8cdm7")[Showcase]  #h(1fr) #inline_image("location.svg") Brussels, Belgium
 - ETHGlobal Paris. Third place at Axelar bounty #pict_link("https://github.com/ipsavitsky/PaySplit")[Repo] #pict_link("https://ethglobal.com/showcase/paysplit-xkqbc")[Showcase] #h(1fr) #inline_image("location.svg") Paris, France
 - Number.Zone 2022. First place. #pict_link("https://github.com/kadmus-dev/3d-reconstruction")[Repo] #h(1fr) #inline_image("location.svg") Online
 - Leaders of digital 2021. Third place. #pict_link("https://github.com/ooo-team/quantum-graph")[Repo] #h(1fr) #inline_image("location.svg") Innopolis, Russia
 
-== Certifications
+== Certfications
 
 #hline
 
