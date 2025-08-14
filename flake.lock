@@ -261,11 +261,11 @@
         "systems": "systems_3"
       },
       "locked": {
-        "lastModified": 1754487086,
-        "narHash": "sha256-ZWWTfI0Y7RynKERss1c2zHeKQpnSi9nY5yLGNTN2Fug=",
+        "lastModified": 1755087144,
+        "narHash": "sha256-RFPwg0/ZLJz/MPyDdMvryG6SYUx9D4ZLIeEoWOOE0cA=",
         "owner": "typst",
         "repo": "typst",
-        "rev": "f38a2e9b9d5d857d67d6f9f172faff53f83d465c",
+        "rev": "805fb24ca4827490fef5e14dd5bf73c984b2fac1",
         "type": "github"
       },
       "original": {
