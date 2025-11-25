@@ -2,8 +2,6 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
-    typst.url = "github:typst/typst";
-    pandoc-nix.url = "github:jgm/pandoc";
   };
 
   outputs =
@@ -11,8 +9,6 @@
       self,
       nixpkgs,
       flake-utils,
-      typst,
-      pandoc-nix,
     }:
     flake-utils.lib.eachDefaultSystem (
       system:
@@ -22,8 +18,7 @@
       {
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
-            typst.packages.${system}.default
-            # pandoc-nix.packages.${system}.default
+            typst
             pandoc
             just
           ];
@@ -34,9 +29,8 @@
             name = "savitsky.dev";
             src = ./.;
             nativeBuildInputs = with pkgs; [
-              # pandoc-nix.packages.${system}.default
               pandoc
-              typst.packages.${system}.default
+              typst
             ];
             installPhase = ''
               mkdir -p $out/static
