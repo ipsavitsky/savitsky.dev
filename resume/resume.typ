@@ -55,18 +55,19 @@ Summer internship, Software Development #h(1fr) Java, Spring, k8s
 - Managed and monitored Kubernetes and IBM WebSphere environments to ensure smooth operation and availability.
 - Executed basic DevOps tasks to streamline software development and deployment process.
 
-== Projects
+// == Projects
 
-#hline
+// #hline
 
-=== #pict_link("https://nothing.savitsky.dev")[nothingverse] #pict_link("https://github.com/ipsavitsky/nothingverse")[Repo]
+// === #pict_link("https://nothing.savitsky.dev")[nothingverse] #pict_link("https://github.com/ipsavitsky/nothingverse")[Repo]
 
-=== ntfyer #pict_link("https://github.com/ipsavitsky/ntfyer")[Repo]
+// === ntfyer #pict_link("https://github.com/ipsavitsky/ntfyer")[Repo]
 
 == Hackathons
 
 #hline
 
+- ETHGlobal Cannes. Second place in Hedera bounty, as well as Flare network bonus track bounties #pict_link("https://github.com/watson-eth-project/watson")[Repo] #pict_link("https://ethglobal.com/showcase/dynamica-nvc5w")[Showcase] #h(1fr) #inline_image("location.svg") Cannes, France
 - ETHGlobal Brussels. Hyperlane "Best Infrastructure" bounty #pict_link("https://github.com/ipsavitsky/DeployAlchemist")[Repo] #pict_link("https://ethglobal.com/showcase/deployalchemist-8cdm7")[Showcase]  #h(1fr) #inline_image("location.svg") Brussels, Belgium
 - ETHGlobal Paris. Third place at Axelar bounty #pict_link("https://github.com/ipsavitsky/PaySplit")[Repo] #pict_link("https://ethglobal.com/showcase/paysplit-xkqbc")[Showcase] #h(1fr) #inline_image("location.svg") Paris, France
 - Number.Zone 2022. First place. #pict_link("https://github.com/kadmus-dev/3d-reconstruction")[Repo] #h(1fr) #inline_image("location.svg") Online
@@ -94,6 +95,3 @@ Bachelor in applied math and informatics, Department of Computing Systems and Au
 #hline
 
 - Vasily V. Balashov, Valery A. Kostenko, Ilya A. Fedorenko, Ilya P. Savitsky, Chumin Sun, Jiexing Gao, Li Zhou, Jie Sun. Hybrid Algorithm for Multiprocessor Scheduling with Makespan Minimization and Constraint on Interprocessor Data Exchange, CoDIT 2023. #pict_link("https://ieeexplore.ieee.org/document/10284178")[Link]
-
-
-
