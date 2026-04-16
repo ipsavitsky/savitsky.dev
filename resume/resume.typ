@@ -28,8 +28,11 @@ Backend software engineer \
 #hline
 
 === #pict_link("https://codethink.co.uk")[Codethink] #h(1fr) #inline_image("location.svg") Manchester, UK #inline_image("calendar.svg") January 2024 - Present
-Software Engineer #h(1fr) Rust, OpenTofu, k8s
+Software Engineer #h(1fr) Rust, Python, OpenTofu, k8s
 
+#emph[Consulting-driven role delivering solutions across diverse client projects and technology stacks.]
+
+- Developed solutions for an LLM models, allowing hosting open weight models on consumer and enterprise hardware.
 - Developed a scalable high performance service used to mirror git objects, including LFS.
 - Supported development of OpenTofu providers for internal usage.
 - Helped maintain a complex infrastructure product managed with OpenTofu.
@@ -88,7 +91,7 @@ Lomonosov Moscow State University
 
 === Lomonosov Moscow State University
 Faculty of Computational Math and Cybernetics, Russia \
-Bachelor in applied math and informatics, Department of Computing Systems and Automation (GPA 4.4/5.0)
+Bachelor in applied math and informatics, Department of Computing Systems and Automation
 
 == Publications
 
