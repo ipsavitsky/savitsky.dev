@@ -18,7 +18,7 @@ Backend software engineer \
   stroke: none,
   columns: 2,
   "Technologies:",
-  "Rust, C, C++, Go, SQL, OpenTofu",
+  "Rust, C, C++, Go, Python, SQL, OpenTofu, Kubernetes, CMake, Linux",
   "Languages:",
   "English (full working proficiency), Russian (native)"
 )
@@ -44,7 +44,7 @@ Embedded Software Engineer (Contract) #h(1fr) C, CMake, ESP-IDF
 - Identified and resolved issues in multithread code for enhanced performance and stability.
 - Streamlined development process by maintaining GitHub Actions build and test pipelines.
 
-=== #pict_link("https://msu.ru/en/index.html")[Lomonosov Moscow State University] #h(1fr) #inline_image("location.svg") Moscow, Russia #inline_image("calendar.svg") Feburary 2022 - January 2024
+=== #pict_link("https://msu.ru/en/index.html")[Lomonosov Moscow State University] #h(1fr) #inline_image("location.svg") Moscow, Russia #inline_image("calendar.svg") February 2022 - January 2024
 Research Software Developer #h(1fr) C++, Boost, Python, NumPy
 
 - Conducted groundbreaking research in scheduling theory in collaboration with Huawei, leading to the development of innovative solutions
@@ -76,7 +76,7 @@ Summer internship, Software Development #h(1fr) Java, Spring, k8s
 - Number.Zone 2022. First place. #pict_link("https://github.com/kadmus-dev/3d-reconstruction")[Repo] #h(1fr) #inline_image("location.svg") Online
 - Leaders of digital 2021. Third place. #pict_link("https://github.com/ooo-team/quantum-graph")[Repo] #h(1fr) #inline_image("location.svg") Innopolis, Russia
 
-== Certfications
+== Certifications
 
 #hline
 
